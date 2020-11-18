@@ -27,4 +27,21 @@ Info for WGS plant DNA extraction protocol
   Store at 4C in glass bottle for up to 3 months
    
 # Make Triton - x- 100 mix 
+  Add:
+    20ml Triton-x-100 
+    10ml HB x10 stock 
+    17.15g sucrose 
+  To 100ml duran bottle 
+  Add ddH2O until 60ml and stir manually till dissolved.  Bring to a final volume of 100ml 
+  Store at 4C in glass bottle for 1 year 
   
+# PREPARE DAY OF ISOLATIONS! NIB BUFFER 
+  You want to make 10ml of NIB per gram of tissue, plus 50ml additional for washes.
+  The following is an example of NIB prep for 5g of plant tissue
+  Add: 97.5 ml HB 1X solution 
+       2.5 ml Triton X-100 solution 
+       1g pvp 
+       Stir until dissolved 
+       Before use add 250ul of B-mercaptoethanol (in fume hood!) 
+       Stir until mixxed 
+
